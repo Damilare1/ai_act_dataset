@@ -1,17 +1,17 @@
-,chapter_number,section_number,section_title
-0,III,1,Classification of AI systems as high-risk
-1,III,2,Requirements for high-risk AI systems
-2,III,3,Obligations of providers and deployers of high-risk AI systems and other parties
-3,III,4,Notifying authorities and notified bodies
-4,III,5,"Standards, conformity assessment, certificates, registration"
-5,V,1,Classification rules
-6,V,2,Obligations for providers of general-purpose AI models
-7,V,3,Obligations of providers of general-purpose AI models with systemic risk
-8,V,4,Codes of practice
-9,VII,1,Governance at Union level
-10,VII,2,National competent authorities
-11,IX,1,Post-market monitoring
-12,IX,2,Sharing of information on serious incidents
-13,IX,3,Enforcement
-14,IX,4,Remedies
-15,IX,5,"Supervision, investigation, enforcement and monitoring in respect of providers of general-purpose AI models"
+chapter_number,section_number,section_title
+III,1,Classification of AI systems as high-risk
+III,2,Requirements for high-risk AI systems
+III,3,Obligations of providers and deployers of high-risk AI systems and other parties
+III,4,Notifying authorities and notified bodies
+III,5,"Standards, conformity assessment, certificates, registration"
+V,1,Classification rules
+V,2,Obligations for providers of general-purpose AI models
+V,3,Obligations of providers of general-purpose AI models with systemic risk
+V,4,Codes of practice
+VII,1,Governance at Union level
+VII,2,National competent authorities
+IX,1,Post-market monitoring
+IX,2,Sharing of information on serious incidents
+IX,3,Enforcement
+IX,4,Remedies
+IX,5,"Supervision, investigation, enforcement and monitoring in respect of providers of general-purpose AI models"
